@@ -6,6 +6,7 @@ export default function Page() {
       <p><a href="https://www.anthropic.com">Anthropic</a> chose a very similar word to brand when founding their incredible AI business in 2021.</p>
       <p>I believe this really limits the potential of Anthropoc as a brand name for the forseeable future. As a result, I&apos;m letting anthropoc.com go.</p>
       <p>If you&apos;re interested in purchasing anthropoc.com, please email me at <a href="mailto:finn@finnelliott.com">finn@finnelliott.com</a>.</p>
+      <p>You can view analytics data for the domain <a href="https://app.usefathom.com/share/kgiolrmh/anthropoc">here</a>.</p>
     </main>
   )
 }
