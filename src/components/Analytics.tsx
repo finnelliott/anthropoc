@@ -5,7 +5,7 @@ import * as Fathom from "fathom-client";
 const Analytics = () => {
   useEffect(() => {
     Fathom.load("KGIOLRMH", {
-      includedDomains: ["anthropoc.com"],
+      includedDomains: ["anthropoc.com", "www.anthropoc.com"],
     });
 
     const onRouteChange = () => Fathom.trackPageview();
